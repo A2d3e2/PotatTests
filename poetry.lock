@@ -1,0 +1,15 @@
+[[package]]
+name = "xintool"
+version = "0.0.7"
+description = "python opensource tools"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "1ddb6048e93fef5db9348be9289bd8226d0e9679ca05f4f2ed2356c74f2587b9"
+
+[metadata.files]
+xintool = []
